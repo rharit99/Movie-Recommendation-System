@@ -40,9 +40,5 @@ This project focuses on building a content-based movie recommendation system usi
 
 ## Usage
 
-```python
-recommend("Avatar") # outputs similar movies to 'Avatar'
-recommend("Iron Man") # outputs similar movies to 'Iron Man'
-
 <img width="559" alt="Screenshot 2024-04-07 at 12 10 47 AM" src="https://github.com/rharit99/Movie-Recommendation-System/assets/159074503/f23f37f1-337d-4847-aee5-3c6646dd2e76">
 
