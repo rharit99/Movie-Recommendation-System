@@ -12,7 +12,7 @@ This project focuses on building a content-based movie recommendation system usi
 - Merged both datasets on the movie title for a comprehensive view.
 - Selected relevant columns and dropped missing values.
 - Deduplicated the dataset to maintain data integrity.
-
+- 
 ## Feature Engineering
 
 - Converted genre, keyword, cast, and crew details from JSON to lists.
@@ -25,6 +25,7 @@ This project focuses on building a content-based movie recommendation system usi
 - Applied the `ast` module to parse stringified lists of dictionaries.
 - Utilized `nltk` and `PorterStemmer` for stemming text data, reducing words to their root form.
 
+\
 ## Vectorization
 
 - Utilized `CountVectorizer` to convert the 'tags' feature into numerical data, allowing for the application of machine learning algorithms.
