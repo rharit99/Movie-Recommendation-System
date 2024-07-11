@@ -12,7 +12,7 @@ This project focuses on building a content-based movie recommendation system usi
 - Merged both datasets on the movie title for a comprehensive view.
 - Selected relevant columns and dropped missing values.
 - Deduplicated the dataset to maintain data integrity.
-  
+
 - 
 ## Feature Engineering
 
